@@ -1,0 +1,2 @@
+rule_id,severity,description,records
+DQ-03,CRITICAL,Foreign key mismatch between profitandloss and companies,"['ULTRACEMCO', 'UNIONBANK', 'UNITDSPR', 'VBL', 'VEDL', 'WIPRO', 'ZOMATO', 'ZYDUSLIFE']"
