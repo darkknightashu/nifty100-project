@@ -35,5 +35,3 @@ if __name__ == "__main__":
 
     for file in files:
         load_excel(f"data/raw/{file}")
-with open("../src/etl/loader.py", "r", encoding="utf-8") as f:
-    print(f.read())
